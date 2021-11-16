@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class WalterMovement : MonoBehaviour
 {
-    private bool grounded;
 
     public float speed;
     public float horizontalMove = 0f;
