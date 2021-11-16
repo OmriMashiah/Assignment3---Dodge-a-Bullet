@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class randomSpawner : MonoBehaviour
 {
+    //
     public Transform[] spawnPoints;
     public GameObject[] enemyPrefabs;
 
